@@ -184,7 +184,11 @@ const char* API_KEY    = "Your_API_Key_Here";
 
 ---
 
+## Link For the Full Guide:
 
+https://circuitdigest.com/microcontroller-projects/esp32cam-helmet-detection-using-circuitdigest-cloud
+
+---
 
 <p align="center">
   Made with ❤️ by <a href="https://circuitdigest.com">CircuitDigest</a> | Powered by <a href="https://circuitdigest.cloud">CircuitDigest Cloud AI</a>
